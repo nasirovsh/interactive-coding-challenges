@@ -2,15 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/interactive-coding-challenges/master/images/cover_challenge.gif">
 </p>
-<p >
-  If you don't want to run locally, you can run this interactive challenges on cloud using following services:     
- * https://mybinder.org/
- * https://www.kaggle.com/kernels
- * colab.research.google.com
- * https://notebooks.azure.com/
- * https://cocalc.com/
- * https://datalore.io/
-</p>
 
 interactive-coding-challenges
 ============
@@ -562,6 +553,18 @@ Review the [Contributing Guidelines](https://github.com/donnemartin/interactive-
 Feel free to contact me to discuss any issues, questions, or comments.
 
 My contact info can be found on my [GitHub page](https://github.com/donnemartin).
+
+### Online Interactive Notebook services
+
+If you don't want to run locally, you can run this interactive challenges on cloud using following services:     
+
+* https://mybinder.org/
+* https://www.kaggle.com/kernels
+* colab.research.google.com
+* https://notebooks.azure.com/
+* https://cocalc.com/
+* https://datalore.io/
+
 
 ## License
 
